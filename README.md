@@ -21,5 +21,5 @@
 3주차5강_머신러닝_분류_문제[2]  
 3주차6강_머신러닝_군집_문제[1]  
 3주차7강_머신러닝_군집_문제[2]  
-[3주차_과제]()  
+[3주차_과제](https://github.com/jang262/jang262.github.io/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)  
 
